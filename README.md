@@ -53,3 +53,5 @@ Other variables that could be considered are:
 <h6>St Kilda 6 17</h6>
 <h6>West Coast Eagles 3 20</h6>
 <h6>Richmond 2 21</h6>
+
+*Ladder still to be formatted
