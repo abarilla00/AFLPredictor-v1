@@ -1,0 +1,207 @@
+0,Sydney Swans,Hawthorn,SCG
+0,GWS Giants,Collingwood,ENGIE Stadium
+0,Brisbane Lions,Geelong Cats,Gabba
+0,Gold Coast Suns,Essendon,People First Stadium
+1,Richmond,Carlton,MCG
+1,Hawthorn,Essendon,MCG
+1,Geelong Cats,Fremantle,GMHBA Stadium
+1,Sydney Swans,Brisbane Lions,SCG
+1,Western Bulldogs,North Melbourne,Marvel Stadium
+1,Collingwood,Port Adelaide,MCG
+1,Adelaide Crows,St Kilda,Adelaide Oval
+1,Melbourne,GWS Giants,MCG
+1,West Coast Eagles,Gold Coast Suns,Optus Stadium
+2,Carlton,Hawthorn,MCG
+2,Western Bulldogs,Collingwood,MCG
+2,Essendon,Adelaide Crows,MCG
+2,Port Adelaide,Richmond,Adelaide Oval
+2,St Kilda,Geelong Cats,Marvel Stadium
+2,Brisbane Lions,West Coast Eagles,Gabba
+2,North Melbourne,Melbourne,Marvel Stadium
+2,Fremantle,Sydney Swans,Optus Stadium
+3,Essendon,Port Adelaide,Marvel Stadium
+3,Carlton,Western Bulldogs,Marvel Stadium
+3,Melbourne,Gold Coast Suns,MCG
+3,St Kilda,Richmond,Marvel Stadium
+3,Hawthorn,GWS Giants,UTAS Stadium
+3,Adelaide Crows,North Melbourne,Adelaide Oval
+3,West Coast Eagles,Fremantle,Optus Stadium
+4,Collingwood,Carlton,MCG
+4,Geelong Cats,Melbourne,GMHBA Stadium
+4,Gold Coast Suns,Adelaide Crows,People First Stadium
+4,Richmond,Brisbane Lions,MCG
+4,North Melbourne,Sydney Swans,Marvel Stadium
+4,GWS Giants,West Coast Eagles,ENGIE Stadium
+4,Port Adelaide,St Kilda,Adelaide Oval
+4,Fremantle,Western Bulldogs,Optus Stadium
+5,Adelaide Crows,Geelong Cats,Adelaide Oval
+5,Collingwood,Sydney Swans,Adelaide Oval
+5,North Melbourne,Gold Coast Suns,Barossa Park
+5,Carlton,West Coast Eagles,Adelaide Oval
+5,Western Bulldogs,Brisbane Lions,Norwood Oval
+5,Melbourne,Essendon,Adelaide Oval
+5,Richmond,Fremantle,Barossa Park
+5,St Kilda,GWS Giants,Norwood Oval
+5,Port Adelaide,Hawthorn,Adelaide Oval
+6,Brisbane Lions,Collingwood,Gabba
+6,North Melbourne,Carlton,Marvel Stadium
+6,West Coast Eagles,Essendon,Optus Stadium
+6,Melbourne,Fremantle,MCG
+6,Adelaide Crows,GWS Giants,Adelaide Oval
+6,Richmond,Gold Coast Suns,Marvel Stadium
+6,Sydney Swans,Port Adelaide,SCG
+6,Western Bulldogs,St Kilda,Marvel Stadium
+6,Geelong Cats,Hawthorn,MCG
+7,Melbourne,Richmond,MCG
+7,Collingwood,Essendon,MCG
+7,Fremantle,Adelaide Crows,Optus Stadium
+7,St Kilda,Brisbane Lions,Marvel Stadium
+7,Port Adelaide,North Melbourne,Adelaide Oval
+7,GWS Giants,Western Bulldogs,Manuka Oval
+7,Gold Coast Suns,Sydney Swans,People First Stadium
+7,Carlton,Geelong Cats,MCG
+7,Hawthorn,West Coast Eagles,Marvel Stadium
+8,Essendon,North Melbourne,Marvel Stadium
+8,St Kilda,Fremantle,Marvel Stadium
+8,Western Bulldogs,Port Adelaide,Mars Stadium
+8,Adelaide Crows,Carlton,Adelaide Oval
+8,Collingwood,Geelong Cats,MCG
+8,West Coast Eagles,Melbourne,Optus Stadium
+8,Sydney Swans,GWS Giants,SCG
+8,Hawthorn,Richmond,MCG
+8,Brisbane Lions,Gold Coast Suns,Gabba
+9,Fremantle,Collingwood,Optus Stadium
+9,St Kilda,Carlton,MCG
+9,Melbourne,Hawthorn,MCG
+9,Essendon,Sydney Swans,Marvel Stadium
+9,Gold Coast Suns,Western Bulldogs,TIO Stadium
+9,Port Adelaide,Adelaide Crows,Adelaide Oval
+9,Richmond,West Coast Eagles,MCG
+9,Geelong Cats,GWS Giants,GMHBA Stadium
+9,North Melbourne,Brisbane Lions,Blundstone Arena
+10,Gold Coast Suns,Hawthorn,TIO Stadium
+10,Sydney Swans,Carlton,SCG
+10,Collingwood,Adelaide Crows,MCG
+10,Port Adelaide,Geelong Cats,Adelaide Oval
+10,GWS Giants,Fremantle,ENGIE Stadium
+10,Western Bulldogs,Essendon,Marvel Stadium
+10,Richmond,North Melbourne,MCG
+10,Brisbane Lions,Melbourne,Gabba
+10,West Coast Eagles,St Kilda,Optus Stadium
+11,Geelong Cats,Western Bulldogs,GMHBA Stadium
+11,Essendon,Richmond,MCG
+11,Carlton,GWS Giants,Marvel Stadium
+11,Hawthorn,Brisbane Lions,MCG
+11,North Melbourne,Collingwood,Marvel Stadium
+11,Fremantle,Port Adelaide,Optus Stadium
+11,Adelaide Crows,West Coast Eagles,Adelaide Oval
+11,Melbourne,Sydney Swans,MCG
+11,St Kilda,Gold Coast Suns,Marvel Stadium
+12,Brisbane Lions,Essendon,Gabba
+12,Collingwood,Hawthorn,MCG
+12,Gold Coast Suns,Fremantle,People First Stadium
+12,GWS Giants,Richmond,ENGIE Stadium
+12,Sydney Swans,Adelaide Crows,SCG
+12,Melbourne,St Kilda,TIO Traeger Park
+12,West Coast Eagles,Geelong Cats,Optus Stadium
+13,Western Bulldogs,Hawthorn,Marvel Stadium
+13,Adelaide Crows,Brisbane Lions,Adelaide Oval
+13,Richmond,Sydney Swans,MCG
+13,Geelong Cats,Gold Coast Suns,GMHBA Stadium
+13,GWS Giants,Port Adelaide,Manuka Oval
+13,North Melbourne,West Coast Eagles,Hands Oval
+13,Carlton,Essendon,MCG
+13,Melbourne,Collingwood,MCG
+14,St Kilda,Western Bulldogs,Marvel Stadium
+14,Hawthorn,Adelaide Crows,UTAS Stadium
+14,Brisbane Lions,GWS Giants,Gabba
+14,Essendon,Geelong Cats,MCG
+14,North Melbourne,Fremantle,Optus Stadium
+14,Port Adelaide,Melbourne,Adelaide Oval
+14,West Coast Eagles,Carlton,Optus Stadium
+15,Fremantle,Essendon,Optus Stadium
+15,Geelong Cats,Brisbane Lions,GMHBA Stadium
+15,Carlton,North Melbourne,MCG
+15,Port Adelaide,Sydney Swans,Adelaide Oval
+15,Collingwood,St Kilda,Marvel Stadium
+15,GWS Giants,Gold Coast Suns,ENGIE Stadium
+15,Western Bulldogs,Richmond,Marvel Stadium
+16,Collingwood,West Coast Eagles,Marvel Stadium
+16,Richmond,Adelaide Crows,MCG
+16,Gold Coast Suns,Melbourne,People First Stadium
+16,Sydney Swans,Western Bulldogs,SCG
+16,Hawthorn,North Melbourne,UTAS Stadium
+16,Port Adelaide,Carlton,Adelaide Oval
+16,Fremantle,St Kilda,Optus Stadium
+17,Geelong Cats,Richmond,GMHBA Stadium
+17,St Kilda,Hawthorn,Marvel Stadium
+17,North Melbourne,Western Bulldogs,Marvel Stadium
+17,Essendon,Gold Coast Suns,Marvel Stadium
+17,Carlton,Collingwood,MCG
+17,Sydney Swans,Fremantle,SCG
+17,Brisbane Lions,Port Adelaide,Gabba
+17,Adelaide Crows,Melbourne,Adelaide Oval
+17,West Coast Eagles,GWS Giants,Optus Stadium
+18,GWS Giants,Geelong Cats,ENGIE Stadium
+18,Western Bulldogs,Adelaide Crows,Mars Stadium
+18,St Kilda,Sydney Swans,Marvel Stadium
+18,Carlton,Brisbane Lions,Marvel Stadium
+18,Melbourne,North Melbourne,MCG
+18,Richmond,Essendon,MCG
+18,Gold Coast Suns,Collingwood,People First Stadium
+18,Port Adelaide,West Coast Eagles,Adelaide Oval
+18,Fremantle,Hawthorn,Optus Stadium
+19,Geelong Cats,St Kilda,GMHBA Stadium
+19,Essendon,GWS Giants,Marvel Stadium
+19,Carlton,Melbourne,MCG
+19,Collingwood,Fremantle,MCG
+19,Sydney Swans,North Melbourne,SCG
+19,Brisbane Lions,Western Bulldogs,Gabba
+19,Hawthorn,Port Adelaide,UTAS Stadium
+19,Adelaide Crows,Gold Coast Suns,Adelaide Oval
+19,West Coast Eagles,Richmond,Optus Stadium
+20,GWS Giants,Sydney Swans,ENGIE Stadium
+20,North Melbourne,Geelong Cats,Marvel Stadium
+20,St Kilda,Melbourne,Marvel Stadium
+20,Essendon,Western Bulldogs,Marvel Stadium
+20,Richmond,Collingwood,MCG
+20,Hawthorn,Carlton,MCG
+20,Gold Coast Suns,Brisbane Lions,People First Stadium
+20,Adelaide Crows,Port Adelaide,Adelaide Oval
+20,Fremantle,West Coast Eagles,Optus Stadium
+21,Geelong Cats,Port Adelaide,GMHBA Stadium
+21,St Kilda,North Melbourne,Marvel Stadium
+21,Melbourne,West Coast Eagles,Marvel Stadium
+21,Western Bulldogs,GWS Giants,Marvel Stadium
+21,Collingwood,Brisbane Lions,MCG
+21,Gold Coast Suns,Richmond,People First Stadium
+21,Sydney Swans,Essendon,SCG
+21,Adelaide Crows,Hawthorn,Adelaide Oval
+21,Fremantle,Carlton,Optus Stadium
+22,Geelong Cats,Essendon,GMHBA Stadium
+22,GWS Giants,North Melbourne,Manuka Oval
+22,Carlton,Gold Coast Suns,Marvel Stadium
+22,Richmond,St Kilda,MCG
+22,Melbourne,Western Bulldogs,MCG
+22,Hawthorn,Collingwood,MCG
+22,Brisbane Lions,Sydney Swans,Gabba
+22,Port Adelaide,Fremantle,Adelaide Oval
+22,West Coast Eagles,Adelaide Crows,Optus Stadium
+23,North Melbourne,Richmond,Blundstone Arena
+23,Essendon,St Kilda,Marvel Stadium
+23,Western Bulldogs,West Coast Eagles,Marvel Stadium
+23,Carlton,Port Adelaide,Marvel Stadium
+23,Hawthorn,Melbourne,MCG
+23,Gold Coast Suns,GWS Giants,People First Stadium
+23,Sydney Swans,Geelong Cats,SCG
+23,Adelaide Crows,Collingwood,Adelaide Oval
+23,Fremantle,Brisbane Lions,Optus Stadium
+24,GWS Giants,St Kilda,ENGIE Stadium
+24,North Melbourne,Adelaide Crows,Marvel Stadium
+24,Western Bulldogs,Fremantle,Marvel Stadium
+24,Collingwood,Melbourne,MCG
+24,Richmond,Geelong Cats,MCG
+24,Essendon,Carlton,MCG
+24,Brisbane Lions,Hawthorn,Gabba
+24,Port Adelaide,Gold Coast Suns,Adelaide Oval
+24,West Coast Eagles,Sydney Swans,Optus Stadium
