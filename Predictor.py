@@ -240,7 +240,7 @@ class Match:
         
         VSRecord = self.__homeTeam.getVSRecord()[self.__awayTeam.getName()][3]
         winRate = self.__homeTeam.getWinRate()
-        homeScore = homeScore + stadiumRecord * 1.1 + VSRecord + winRate * 0.2
+        homeScore = homeScore + stadiumRecord * 1.2 + VSRecord * 1 + winRate * 0.2
         self.__homeScore = homeScore
 
         awayScore = self.__awayTeam.getTrueAbility()
@@ -255,7 +255,7 @@ class Match:
 
         VSRecord = self.__awayTeam.getVSRecord()[self.__homeTeam.getName()][3]
         winRate = self.__awayTeam.getWinRate()
-        awayScore = awayScore + stadiumRecord * 0.9 + VSRecord + winRate * 0.2
+        awayScore = awayScore + stadiumRecord * 0.8 + VSRecord * 1 + winRate * 0.2
         self.__awayScore = awayScore
 
 
