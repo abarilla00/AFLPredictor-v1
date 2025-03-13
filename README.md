@@ -61,5 +61,6 @@ Other variables that could be considered are:
 
 # Notes
 
-In order to run the program, users should first execute the following command in the project folder's CLI
+In order to run the program, users should first execute the following command in the project folder's CLI:
+
 pip install -r REQUIREMENTS.txt
