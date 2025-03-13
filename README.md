@@ -54,4 +54,12 @@ Other variables that could be considered are:
 <h6>West Coast Eagles 3 20</h6>
 <h6>Richmond 2 21</h6>
 
-*Ladder still to be formatted
+# Still To Do
+
+* Ladder Formatting
+* Better Randomisation
+
+# Notes
+
+In order to run the program, users should first execute the following command in the project folder's CLI
+pip install -r REQUIREMENTS.txt
